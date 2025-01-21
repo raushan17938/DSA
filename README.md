@@ -36,6 +36,7 @@
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raushan17938/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/raushan17938/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/raushan17938/DSA/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/raushan17938/DSA/tree/master/2465-shifting-letters-ii) |
 ## Array
 |  |
@@ -45,6 +46,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raushan17938/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/raushan17938/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raushan17938/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2145-grid-game](https://github.com/raushan17938/DSA/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/raushan17938/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/raushan17938/DSA/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/raushan17938/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -108,6 +110,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/raushan17938/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raushan17938/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/raushan17938/DSA/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/raushan17938/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
