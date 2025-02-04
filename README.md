@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/raushan17938/DSA/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/raushan17938/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/raushan17938/DSA/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/raushan17938/DSA/tree/master/1396-count-servers-that-communicate) |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raushan17938/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/raushan17938/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
