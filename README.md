@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/raushan17938/DSA/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/raushan17938/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/raushan17938/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/raushan17938/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/raushan17938/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/raushan17938/DSA/tree/master/0820-find-eventual-safe-states) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/raushan17938/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/raushan17938/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/raushan17938/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/raushan17938/DSA/tree/master/1558-course-schedule-iv) |
@@ -241,9 +243,11 @@
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/raushan17938/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/raushan17938/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/raushan17938/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/raushan17938/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
