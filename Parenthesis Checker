@@ -1,0 +1,31 @@
+https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/parenthesis-checker2744
+
+
+class Solution {
+  public:
+    bool isBalanced(string& s) {
+        stack<char> stack;
+        
+        for(char ch : s){
+            if(ch == '(' || ch == '{' || ch == '['){
+                stack.push(ch);
+            }
+            else if(ch == ')' || ch == '}' || ch == ']'){
+                if(stack.empty()) return false;
+                char top = stack.top();
+                stack.pop();
+                
+                if( (ch == ')' && top != '(') ||
+                    (ch == '}' && top != '{') ||
+                    (ch == ']' && top != '[')) {
+                        return false;
+                    }
+                
+            }
+        }
+        
+        return stack.empty();
+    }
+    
+    
+};
