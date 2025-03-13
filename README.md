@@ -63,6 +63,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/raushan17938/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/raushan17938/DSA/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/raushan17938/DSA/tree/master/2465-shifting-letters-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/raushan17938/DSA/tree/master/3643-zero-array-transformation-ii) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/raushan17938/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/raushan17938/DSA/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/raushan17938/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3643-zero-array-transformation-ii](https://github.com/raushan17938/DSA/tree/master/3643-zero-array-transformation-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -300,4 +302,5 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raushan17938/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/raushan17938/DSA/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
