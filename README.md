@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/raushan17938/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raushan17938/DSA/tree/master/0344-reverse-string) |
 | [0952-word-subsets](https://github.com/raushan17938/DSA/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/raushan17938/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -237,6 +238,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/raushan17938/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/raushan17938/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raushan17938/DSA/tree/master/0344-reverse-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raushan17938/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
