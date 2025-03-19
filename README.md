@@ -59,6 +59,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/raushan17938/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raushan17938/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/raushan17938/DSA/tree/master/2792-neighboring-bitwise-xor) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raushan17938/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/raushan17938/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/raushan17938/DSA/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/raushan17938/DSA/tree/master/2465-shifting-letters-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raushan17938/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/raushan17938/DSA/tree/master/3643-zero-array-transformation-ii) |
 ## Array
 |  |
@@ -116,6 +118,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/raushan17938/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/raushan17938/DSA/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/raushan17938/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raushan17938/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/raushan17938/DSA/tree/master/3643-zero-array-transformation-ii) |
 ## String Matching
 |  |
@@ -312,6 +315,7 @@
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raushan17938/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/raushan17938/DSA/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raushan17938/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -320,4 +324,8 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/raushan17938/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/raushan17938/DSA/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/raushan17938/DSA/tree/master/3643-zero-array-transformation-ii) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raushan17938/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
