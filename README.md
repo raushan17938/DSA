@@ -124,6 +124,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raushan17938/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/raushan17938/DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raushan17938/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/raushan17938/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raushan17938/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/raushan17938/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/raushan17938/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -160,6 +161,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/raushan17938/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/raushan17938/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/raushan17938/DSA/tree/master/2509-minimize-xor) |
+| [3001-apply-operations-to-maximize-score](https://github.com/raushan17938/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/raushan17938/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/raushan17938/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/raushan17938/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/raushan17938/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/raushan17938/DSA/tree/master/3447-clear-digits) |
 ## Brainteaser
 |  |
@@ -271,6 +274,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/raushan17938/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raushan17938/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raushan17938/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/raushan17938/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raushan17938/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/raushan17938/DSA/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/raushan17938/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -313,6 +317,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raushan17938/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/raushan17938/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/raushan17938/DSA/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/raushan17938/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 ## Data Stream
 |  |
 | ------- |
@@ -368,4 +373,12 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raushan17938/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/raushan17938/DSA/tree/master/3001-apply-operations-to-maximize-score) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/raushan17938/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
