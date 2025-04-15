@@ -62,6 +62,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/raushan17938/DSA/tree/master/0029-divide-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raushan17938/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/raushan17938/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raushan17938/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -336,6 +337,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/raushan17938/DSA/tree/master/0029-divide-two-integers) |
 | [0368-largest-divisible-subset](https://github.com/raushan17938/DSA/tree/master/0368-largest-divisible-subset) |
 | [1477-product-of-the-last-k-numbers](https://github.com/raushan17938/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/raushan17938/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
