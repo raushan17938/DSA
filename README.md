@@ -35,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/raushan17938/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/raushan17938/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raushan17938/DSA/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/raushan17938/DSA/tree/master/0768-partition-labels) |
