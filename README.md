@@ -28,6 +28,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/raushan17938/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raushan17938/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raushan17938/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/raushan17938/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raushan17938/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/raushan17938/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/raushan17938/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -149,6 +150,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/raushan17938/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raushan17938/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/raushan17938/DSA/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/raushan17938/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raushan17938/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raushan17938/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/raushan17938/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -422,6 +424,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raushan17938/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/raushan17938/DSA/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/raushan17938/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/raushan17938/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raushan17938/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
