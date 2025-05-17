@@ -108,6 +108,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raushan17938/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/raushan17938/DSA/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/raushan17938/DSA/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/raushan17938/DSA/tree/master/0407-trapping-rain-water-ii) |
@@ -353,6 +354,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raushan17938/DSA/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/raushan17938/DSA/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raushan17938/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/raushan17938/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -369,6 +371,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raushan17938/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/raushan17938/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/raushan17938/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raushan17938/DSA/tree/master/0344-reverse-string) |
