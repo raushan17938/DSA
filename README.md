@@ -230,6 +230,7 @@
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/raushan17938/DSA/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/raushan17938/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -366,6 +367,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/raushan17938/DSA/tree/master/0386-lexicographical-numbers) |
 | [0820-find-eventual-safe-states](https://github.com/raushan17938/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/raushan17938/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raushan17938/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
