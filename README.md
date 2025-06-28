@@ -53,6 +53,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/raushan17938/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/raushan17938/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/raushan17938/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/raushan17938/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/raushan17938/DSA/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/raushan17938/DSA/tree/master/0768-partition-labels) |
@@ -461,6 +462,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/raushan17938/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/raushan17938/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/raushan17938/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/raushan17938/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raushan17938/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/raushan17938/DSA/tree/master/0443-string-compression) |
