@@ -1,31 +1,15 @@
 class Solution {
-  public:
-    int romanToDecimal(string &s) {
-        // Map of Roman characters to integer values
-        unordered_map<char, int> romanMap = {
-            {'I', 1}, {'V', 5}, {'X', 10},
-            {'L', 50}, {'C', 100}, {'D', 500},
-            {'M', 1000}
-        };
-
-        int total = 0;
-        int prevValue = 0;
-
-      
-        for (int i = s.length() - 1; i >= 0; i--) {
-            int current = romanMap[s[i]];
-
-
-            if (current < prevValue) {
-                total -= current;
-            } else {
-                total += current;
+public:
+    int romanToDecimal(string s) {
+        int vals[] = {1000,900,500,400,100,90,50,40,10,9,5,4,1};
+        string syms[] = {"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
+        int res = 0, i = 0;
+        for (int j = 0; j < 13; j++) {
+            while (i + syms[j].length() <= s.length() && s.substr(i, syms[j].length()) == syms[j]) {
+                res += vals[j];
+                i += syms[j].length();
             }
-
-          
-            prevValue = current;
         }
-
-        return total;
+        return res;
     }
 };
