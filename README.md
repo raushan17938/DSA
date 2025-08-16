@@ -250,6 +250,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/raushan17938/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/raushan17938/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/raushan17938/DSA/tree/master/2529-range-product-queries-of-powers) |
+| [2531-create-components-with-same-value](https://github.com/raushan17938/DSA/tree/master/2531-create-components-with-same-value) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/raushan17938/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/raushan17938/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/raushan17938/DSA/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -499,6 +500,7 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/raushan17938/DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/raushan17938/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/raushan17938/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2531-create-components-with-same-value](https://github.com/raushan17938/DSA/tree/master/2531-create-components-with-same-value) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/raushan17938/DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/raushan17938/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/raushan17938/DSA/tree/master/2793-count-the-number-of-complete-components) |
@@ -627,6 +629,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/raushan17938/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/raushan17938/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/raushan17938/DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2531-create-components-with-same-value](https://github.com/raushan17938/DSA/tree/master/2531-create-components-with-same-value) |
 | [2649-count-total-number-of-colored-cells](https://github.com/raushan17938/DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/raushan17938/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/raushan17938/DSA/tree/master/2998-count-symmetric-integers) |
@@ -666,6 +669,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raushan17938/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/raushan17938/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/raushan17938/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2531-create-components-with-same-value](https://github.com/raushan17938/DSA/tree/master/2531-create-components-with-same-value) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/raushan17938/DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/raushan17938/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/raushan17938/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -786,6 +790,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/raushan17938/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/raushan17938/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/raushan17938/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2531-create-components-with-same-value](https://github.com/raushan17938/DSA/tree/master/2531-create-components-with-same-value) |
 | [2998-count-symmetric-integers](https://github.com/raushan17938/DSA/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/raushan17938/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/raushan17938/DSA/tree/master/3548-find-the-count-of-good-integers) |
