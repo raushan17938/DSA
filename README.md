@@ -663,6 +663,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/raushan17938/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/raushan17938/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/raushan17938/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/raushan17938/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/raushan17938/DSA/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/raushan17938/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/raushan17938/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
