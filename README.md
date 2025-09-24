@@ -7,6 +7,7 @@
 | [0036-valid-sudoku](https://github.com/raushan17938/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/raushan17938/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/raushan17938/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raushan17938/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/raushan17938/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/raushan17938/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/raushan17938/DSA/tree/master/0797-rabbits-in-forest) |
@@ -78,6 +79,7 @@
 | [0125-valid-palindrome](https://github.com/raushan17938/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raushan17938/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/raushan17938/DSA/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raushan17938/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/raushan17938/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/raushan17938/DSA/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/raushan17938/DSA/tree/master/0768-partition-labels) |
@@ -696,6 +698,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/raushan17938/DSA/tree/master/0029-divide-two-integers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raushan17938/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/raushan17938/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/raushan17938/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raushan17938/DSA/tree/master/0342-power-of-four) |
