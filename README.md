@@ -219,6 +219,7 @@
 | [1006-vowel-spellchecker](https://github.com/raushan17938/DSA/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/raushan17938/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/raushan17938/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/raushan17938/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/raushan17938/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/raushan17938/DSA/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raushan17938/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -815,6 +816,7 @@
 | [0868-push-dominoes](https://github.com/raushan17938/DSA/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/raushan17938/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/raushan17938/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/raushan17938/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/raushan17938/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/raushan17938/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raushan17938/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
