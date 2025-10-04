@@ -192,6 +192,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raushan17938/DSA/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/raushan17938/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/raushan17938/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/raushan17938/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -392,6 +393,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raushan17938/DSA/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/raushan17938/DSA/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/raushan17938/DSA/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/raushan17938/DSA/tree/master/0768-partition-labels) |
@@ -647,6 +649,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raushan17938/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/raushan17938/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/raushan17938/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raushan17938/DSA/tree/master/0151-reverse-words-in-a-string) |
