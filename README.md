@@ -50,6 +50,7 @@
 | [2479-meeting-rooms-iii](https://github.com/raushan17938/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/raushan17938/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/raushan17938/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/raushan17938/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/raushan17938/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/raushan17938/DSA/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raushan17938/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -316,6 +317,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raushan17938/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raushan17938/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/raushan17938/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/raushan17938/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/raushan17938/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/raushan17938/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/raushan17938/DSA/tree/master/2685-first-completely-painted-row-or-column) |
@@ -436,6 +438,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/raushan17938/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/raushan17938/DSA/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/raushan17938/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/raushan17938/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/raushan17938/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/raushan17938/DSA/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/raushan17938/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -785,6 +788,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/raushan17938/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/raushan17938/DSA/tree/master/2531-create-components-with-same-value) |
 | [2649-count-total-number-of-colored-cells](https://github.com/raushan17938/DSA/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/raushan17938/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/raushan17938/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/raushan17938/DSA/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raushan17938/DSA/tree/master/3001-apply-operations-to-maximize-score) |
