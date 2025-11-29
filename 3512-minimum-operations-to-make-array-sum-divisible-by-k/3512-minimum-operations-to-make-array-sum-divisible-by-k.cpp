@@ -1,0 +1,11 @@
+class Solution {
+public:
+   
+    int minOperations(vector<int>& nums, int k) {
+
+        int totalSum = reduce(nums.begin(), nums.end(), 0);
+      
+   
+        return totalSum % k;
+    }
+};
