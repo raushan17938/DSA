@@ -4,7 +4,7 @@ public:
         int count = 0;
         int n = nums.size();
         
-        for (int i = 0; i < n; ++i) {
+        for (int i = 0; i < n; i++) {
             // Check if current element is greater than the next one
             // Use modulo operator % to handle the wrap-around case (last element vs first)
             if (nums[i] > nums[(i + 1) % n]) {
