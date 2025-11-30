@@ -238,6 +238,7 @@
 | [0037-sudoku-solver](https://github.com/raushan17938/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/raushan17938/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/raushan17938/DSA/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raushan17938/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/raushan17938/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/raushan17938/DSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/raushan17938/DSA/tree/master/0135-candy) |
@@ -781,6 +782,7 @@
 | [0011-container-with-most-water](https://github.com/raushan17938/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raushan17938/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/raushan17938/DSA/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raushan17938/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/raushan17938/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raushan17938/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/raushan17938/DSA/tree/master/0165-compare-version-numbers) |
