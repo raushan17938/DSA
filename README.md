@@ -8,6 +8,7 @@
 | [0037-sudoku-solver](https://github.com/raushan17938/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/raushan17938/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/raushan17938/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0268-missing-number](https://github.com/raushan17938/DSA/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/raushan17938/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/raushan17938/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/raushan17938/DSA/tree/master/0768-partition-labels) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/raushan17938/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/raushan17938/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/raushan17938/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/raushan17938/DSA/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/raushan17938/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/raushan17938/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -261,6 +263,7 @@
 | [0118-pascals-triangle](https://github.com/raushan17938/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/raushan17938/DSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/raushan17938/DSA/tree/master/0135-candy) |
+| [0268-missing-number](https://github.com/raushan17938/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raushan17938/DSA/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/raushan17938/DSA/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/raushan17938/DSA/tree/master/0407-trapping-rain-water-ii) |
@@ -782,6 +785,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/raushan17938/DSA/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/raushan17938/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/raushan17938/DSA/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/raushan17938/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/raushan17938/DSA/tree/master/0611-valid-triangle-number) |
@@ -917,6 +921,7 @@
 | [0029-divide-two-integers](https://github.com/raushan17938/DSA/tree/master/0029-divide-two-integers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/raushan17938/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/raushan17938/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/raushan17938/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/raushan17938/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raushan17938/DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/raushan17938/DSA/tree/master/0368-largest-divisible-subset) |
@@ -1123,6 +1128,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/raushan17938/DSA/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/raushan17938/DSA/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/raushan17938/DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/raushan17938/DSA/tree/master/0794-swim-in-rising-water) |
