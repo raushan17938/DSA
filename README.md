@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/raushan17938/DSA/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/raushan17938/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/raushan17938/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raushan17938/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/raushan17938/DSA/tree/master/0342-power-of-four) |
@@ -264,6 +265,7 @@
 | [0118-pascals-triangle](https://github.com/raushan17938/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/raushan17938/DSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/raushan17938/DSA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/raushan17938/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/raushan17938/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raushan17938/DSA/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/raushan17938/DSA/tree/master/0368-largest-divisible-subset) |
