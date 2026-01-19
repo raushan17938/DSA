@@ -222,6 +222,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/raushan17938/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/raushan17938/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/raushan17938/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/raushan17938/DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -306,6 +307,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/raushan17938/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/raushan17938/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/raushan17938/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/raushan17938/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/raushan17938/DSA/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raushan17938/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/raushan17938/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -730,6 +732,7 @@
 | [0794-swim-in-rising-water](https://github.com/raushan17938/DSA/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/raushan17938/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/raushan17938/DSA/tree/master/0945-snakes-and-ladders) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/raushan17938/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raushan17938/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/raushan17938/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/raushan17938/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1185,6 +1188,7 @@
 | [0611-valid-triangle-number](https://github.com/raushan17938/DSA/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/raushan17938/DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/raushan17938/DSA/tree/master/0794-swim-in-rising-water) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/raushan17938/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raushan17938/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raushan17938/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/raushan17938/DSA/tree/master/1612-avoid-flood-in-the-city) |
