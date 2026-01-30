@@ -159,6 +159,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/raushan17938/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/raushan17938/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/raushan17938/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/raushan17938/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/raushan17938/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/raushan17938/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/raushan17938/DSA/tree/master/3194-find-words-containing-character) |
@@ -434,6 +435,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/raushan17938/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/raushan17938/DSA/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/raushan17938/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/raushan17938/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raushan17938/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/raushan17938/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/raushan17938/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -530,6 +532,7 @@
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/raushan17938/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/raushan17938/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/raushan17938/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/raushan17938/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/raushan17938/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -774,6 +777,7 @@
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/raushan17938/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/raushan17938/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/raushan17938/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/raushan17938/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/raushan17938/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/raushan17938/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1158,6 +1162,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/raushan17938/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/raushan17938/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/raushan17938/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/raushan17938/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/raushan17938/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/raushan17938/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/raushan17938/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1380,5 +1385,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/raushan17938/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/raushan17938/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
