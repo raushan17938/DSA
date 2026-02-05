@@ -1,11 +1,26 @@
 class Solution {
-public:
+  public:
     int maxOnes(vector<int>& arr, int k) {
-        int l = 0, zeros = 0, maxLen = 0;
-        for (int r = 0; r < arr.size(); r++) {
-            zeros += (arr[r] == 0);
-            while (zeros > k) zeros -= (arr[l++] == 0);
-            maxLen = max(maxLen, r - l + 1);
+        int n = arr.size();
+        int left = 0;
+        int right = 0;
+        int zeroCount = 0;
+        int maxLen = 0;
+
+        while (right < n) {
+            if (arr[right] == 0) {
+                zeroCount++;
+            }
+
+            while (zeroCount > k) {
+                if (arr[left] == 0) {
+                    zeroCount--;
+                }
+                left++;
+            }
+
+            maxLen = max(maxLen, right - left + 1);
+            right++;
         }
         return maxLen;
     }
