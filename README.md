@@ -993,6 +993,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/raushan17938/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/raushan17938/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/raushan17938/DSA/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/raushan17938/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/raushan17938/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raushan17938/DSA/tree/master/0268-missing-number) |
@@ -1138,6 +1139,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/raushan17938/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/raushan17938/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/raushan17938/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/raushan17938/DSA/tree/master/0120-triangle) |
@@ -1361,6 +1363,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/raushan17938/DSA/tree/master/0070-climbing-stairs) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/raushan17938/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/raushan17938/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/raushan17938/DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
