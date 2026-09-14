@@ -267,6 +267,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raushan17938/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/raushan17938/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/raushan17938/DSA/tree/master/0037-sudoku-solver) |
+| [0055-jump-game](https://github.com/raushan17938/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/raushan17938/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/raushan17938/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/raushan17938/DSA/tree/master/0075-sort-colors) |
@@ -555,6 +556,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raushan17938/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/raushan17938/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/raushan17938/DSA/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/raushan17938/DSA/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/raushan17938/DSA/tree/master/0759-set-intersection-size-at-least-two) |
@@ -1139,6 +1141,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/raushan17938/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/raushan17938/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/raushan17938/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/raushan17938/DSA/tree/master/0118-pascals-triangle) |
