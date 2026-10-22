@@ -297,6 +297,7 @@
 | [0797-rabbits-in-forest](https://github.com/raushan17938/DSA/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/raushan17938/DSA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/raushan17938/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0860-lemonade-change](https://github.com/raushan17938/DSA/tree/master/0860-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/raushan17938/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/raushan17938/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/raushan17938/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -562,6 +563,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/raushan17938/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/raushan17938/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/raushan17938/DSA/tree/master/0797-rabbits-in-forest) |
+| [0860-lemonade-change](https://github.com/raushan17938/DSA/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/raushan17938/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/raushan17938/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/raushan17938/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
